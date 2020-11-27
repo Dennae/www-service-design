@@ -19,8 +19,6 @@ xx actionable tasks: xx executed
 
 Build Analyzer results available
 
-### 3. Android Studio Emulator
-
 5. Launching 'app' on device should result in a success message. You should now be able to see either the mobile phone front app screen or the Education Application Login.
 
 
