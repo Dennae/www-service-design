@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "title": "Language 1 - English",
+      "image" : "",
+      "url": "https://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "description": "Learn how to read, write and speak different languages by playing a wide variety of fun and easy learning games!",
+      "dietLabel": "Easy"
+    },
+    {
+      "title": "Language 2 - Spanish",
+      "image" : "",
+      "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
+      "description": "Math explained in easy language, plus puzzles, games... and much more!",
+      "dietLabel": "Intermediate"
+    },
+    {
+      "title": "Language 3 - Chinese",
+      "image" : "",
+      "url": "https://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "description": "Learn more with our fun science experiments, cool facts, free games, activities, lesson plans, quizzes!",
+      "dietLabel": "Advanced"
+    }
+  ]
+}

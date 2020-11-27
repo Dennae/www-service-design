@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "categoryTitle": "Languages",
+      "categoryImage" : "https://drive.google.com/file/d/1gkFJebe95ZV4E09tsEg9C-lRIC44dMee/view?usp=sharing",
+      "categoryUrl": "https://rockalingua.com/",
+      "categoryDescription": "Learn how to read, write and speak different languages by playing a wide variety of fun and easy learning games!",
+      "categoryLabel": "Easy"
+    },
+    {
+      "categoryTitle": "Mathematics",
+      "categoryImage" : "https://drive.google.com/file/d/1gkFJebe95ZV4E09tsEg9C-lRIC44dMee/view?usp=sharing",
+      "categoryUrl": "https://www.mathgametime.com/math-games",
+      "categoryDescription": "Math explained in easy language, plus puzzles, games... and much more!",
+      "categoryLabel": "Intermediate"
+    },
+    {
+      "categoryTitle": "Science",
+      "categoryImage" : "https://drive.google.com/file/d/1gkFJebe95ZV4E09tsEg9C-lRIC44dMee/view?usp=sharing",
+      "categoryUrl": "https://www.ducksters.com/science/",
+      "categoryDescription": "Learn more with our fun science experiments, cool facts, free games, activities, lesson plans, quizzes!",
+      "categoryLabel": "Advanced"
+    }
+  ]
+}

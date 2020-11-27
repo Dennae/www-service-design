@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General App Theme Strings-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#985EFF</color>
+
+    <!-- Category Item Strings -->
+    <color name="colorAdvanced">#D2527F</color>
+    <color name="colorIntermediate">#F4D03F</color>
+    <color name="colorEasy">#26A65B</color>
+</resources>

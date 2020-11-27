@@ -1,0 +1,33 @@
+<resources>
+    <!-- Login Strings -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Account</string>
+    <string name="etEmail">Your email</string>
+    <string name="etPassword">Your Password</string>
+    <string name="send_password_reset_email">Send password reset email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="first_name_profile">First Name :</string>
+    <string name="last_name_profile">Last Name :</string>
+    <string name="email_profile">Email :</string>
+    <string name="email_verified_profile">Email Verified :</string>
+    <string name="image_profile">A pixabay dog profile pic</string>
+
+    <!-- List View Strings -->
+    <string name="thumbnail">thumbnail</string>
+    <string name="textWelcome">Welcome! :)</string>
+    <string name="textWelcome2">This is your personal information page.</string>
+    <string name="go_to_courses">Go To Courses</string>
+    <string name="background_grass">Background Grass</string>
+    <string name="education_mobile_app">Education Mobile App</string>
+    <string name="loginElephant">loginElephant</string>
+    <string name="loginBubble">loginBubble</string>
+    <string name="loginBgImage">loginBgImage</string>
+    <string name="createAccountElephant">createAccountElephant</string>
+    <string name="createAccountGrass">createAccountGrass</string>
+    <string name="forgotpasswordbgdoge">forgotPasswordBGDoge</string>
+    <string name="forgotpasswordbgbubble">forgotPasswordBGBubble</string>
+</resources>
