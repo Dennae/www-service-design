@@ -10,8 +10,8 @@ Install Android Studio 4.1.1 or later.
 To set up the project:
 1. Create a new directory called "Education".
 1. <strong>Git clone</strong> files to the local directory "Education".
-2. Choose "Import Project (Gradle, Eclipse ADT, etc.) 
-3. Press "Run App". This should start the Gradle build and the virtual emulator
+2. Choose  <strong>"Import Project (Gradle, Eclipse ADT, etc.)</strong>
+3. Press   <strong>"Run App"</strong>. This should start the Gradle build and the virtual emulator
 4. Gradle builder should produce the following message on build output
 
 BUILD SUCCESSFUL in xx s
@@ -19,7 +19,9 @@ xx actionable tasks: xx executed
 
 Build Analyzer results available
 
-5. Launching 'app' on device should result in a success message. You should now be able to see either the mobile phone front app screen or the Education Application Login.
+5. Launching 'app' on device should result in a success message. You should now be able to see either the mobile phone front app screen or the Education Application Login. 
+
+Note! Sometimes the emulator behaves in bizarre ways and might require pressing the emulators "power" button on/off.
 
 
 ### Android Studio Emulator Errors
