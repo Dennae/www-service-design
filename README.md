@@ -2,7 +2,7 @@
 A course project for Aalto University course Design of WWW Services. 
 ---
 
-### 1. Prerequisites
+### 1. Pre-requisites
 Install Android Studio 4.1.1 or later.
 
 ### 2. Setup
