@@ -37,3 +37,11 @@ https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/androi
 https://github.com/intel/haxm/wiki/Installation-Instructions-on-Windows
 
 
+
+## DEMO ## 
+
+There is a platform that lets you demonstrate your native mobile build on browser. The free trial has severe limits (concurrent users 1 and 100 session minutes / month) but it works. 
+
+The demo can be found here: https://appetize.io/app/8jmmhzktaq6ut51uejtvtnkf64?device=pixel4xl&scale=75&orientation=portrait&osVersion=11.0
+
+
